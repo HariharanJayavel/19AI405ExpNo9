@@ -137,7 +137,7 @@ while(player):
         break    
 ```    
 <hr>
-<h1>Sample Input and Output:</h1>
+<h1>Input and Output:</h1>
 <hr>
 <img width="1500" alt="AI 9 EXP output wumpus" src="https://github.com/HariharanJayavel/19AI405ExpNo9/assets/144870546/6d0ee470-44c9-4199-b3d7-65c7fbb01f21">
 
